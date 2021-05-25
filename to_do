@@ -1,0 +1,30 @@
+Distinguish between different inputted languages.
+
+Handle emojis, stickers, voice messages
+recognise each of them and implement differnt response solutions
+
+what if multiple messages come from multiple users simultaneously?
+
+in the existing conversation, green dot stays for only a few seconds before dissapearing
+
+simultaneous conversation with more than one people with conversation trees and/or multiple instances of the chatbot (file)
+
+reverse the direction to look for green unread messages dot to reply to older messages first
+
+cooldown before moving on to another conversation with another person?
+
+tanglish
+
+ascii art
+
+Long messages read more triple click doesn't get the whole message
+
+Forward messages need no specific responses.
+
+Schedule events in my calender; get for my approval
+
+Schedule messages to send to specific recipients
+
+Distinguish between persons and groups
+
+whatsapp group chat analyser-insights
