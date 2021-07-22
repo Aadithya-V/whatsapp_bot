@@ -1,6 +1,14 @@
-Distinguish between different inputted languages.
+Handle all possible exceptions like keyboard interrupt, etc across the entire program.
 
-Handle emojis, stickers, voice messages
+Whatsapp group spam classifier- pust to whatsapp as an inbuilt function. Allow users to train the model. Enable specific models for specific groups. 
+Let the sender know that their msg has not been delivered to specific members of the group as it has been classified as spam by them.
+
+Distinguish between different inputted languages.
+Detect spam
+
+Detect new messages by system chime
+get screen size and fix constant location of refrernce_point
+Handle emojis, stickers, voice messages. Use computer vision. Train an emoji sentiment analyser to reply appropriately. 
 recognise each of them and implement differnt response solutions
 
 what if multiple messages come from multiple users simultaneously?
