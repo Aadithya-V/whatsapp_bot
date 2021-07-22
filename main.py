@@ -81,14 +81,8 @@ if (
 ):  # Boilerplate __name__ guard for importing this module elsewhere
     sleep(3)    #meanwhile start up Web Whatsapp
     
-    try:
-        locate_reference_point()
-
-    except Exception:
-        print("WhatsApp Web not open on the screen at the time of running the program. Reference point not found.")
-    
-    else:
-        post_response(get_message())
+    locate_reference_point()
+    post_response(get_message())
 
 
 
